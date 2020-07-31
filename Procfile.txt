@@ -1,1 +1,2 @@
-web: java -jar $JAVA_OPTS -Dserver.port=$PORT target/Telegram-1.0-SNAPSHOT.jar
+
+web:    java $JAVA_OPTS -jar target/Telegram.jar --port $PORT target/*.war
