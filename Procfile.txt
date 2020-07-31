@@ -1,1 +1,1 @@
-worker: sh target/bin/sergeyMy_bot
+web: java -jar target/Telegram.jar
