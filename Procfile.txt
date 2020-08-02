@@ -1,2 +1,2 @@
 
-web: java -jar target/Telegram.jar
+web: java -jar .target/Telegram.jar
