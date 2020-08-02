@@ -1,2 +1,2 @@
 
-web: java $JAVA_OPTS -Dport=$PORT -jar ./target/Telegram.jar
+web: java $JAVA_OPTS -Dport=$PORT -jar ./target/Telegram-1.0-SNAPSHOT.jar
