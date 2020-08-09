@@ -17,7 +17,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>com.roufid.tutorials.AppTest</mainClass>
+<mainClass>App2</mainClass>
 </manifest>
 </archive>
 </configuration>
