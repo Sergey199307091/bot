@@ -1,2 +1,2 @@
-web: java -jar /target/Telegram-1.0-SNAPSHOT.jar
+web:java -jar /target/Telegram-1.0-SNAPSHOT.jar
 
