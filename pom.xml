@@ -19,7 +19,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>App2</mainClass>
+            <mainClass>java.App2</mainClass>
           </manifest>
         </archive>
       </configuration>
