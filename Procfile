@@ -1,3 +1,3 @@
-web: java -jar target/Telegram-1.0-SNAPSHOT.jar
+web:    java $JAVA_OPTS -jar out/artifacts/TelegramBot_jar/TelegramBot.jar --port $PORT target/*.war
 
 
